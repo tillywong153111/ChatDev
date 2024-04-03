@@ -15,7 +15,7 @@ import argparse
 import logging
 import os
 import sys
-
+print("start")
 from camel.typing import ModelType
 
 root = os.path.dirname(__file__)
